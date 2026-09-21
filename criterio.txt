@@ -1,0 +1,44 @@
+Criteri
+Guadagno alto;
+Accessibile a chiunque; 
+Mantenimento dell' app;
+
+Ecco funzionalità:
+
+Il pagamento verrà effettuato una volta che il bambino arriva a destinazione e potrebbe variare in base alla necessità del genitore e dalla durata del transporto (ovviamente il prezzo viene stabilito prima).
+
+Se sarà fatto un abbonamento ci sarà un risparmio.
+
+La macchina è personale dell' autista.
+
+E' importante che l' autista (che potrebbe essere una qualunque persona che offre un servizio) ha una licenza di guida in modo che posso portare in giro minori ovviamente con il consenso dei genitori.
+
+Si può fare un colloquio con l' autista se il genitore lo richiede (ovviamente dei giorni prima, e potrebbe essere a pagamento, ma l' accordo questo potrebbe essere tra autista e cliente) 
+
+I driver devono prima essere certificati dall' app con controllo della carta di identità, devono allegare la patente di guida italiana per verificare che effettivamente possono guidare e quest' ultimi una volta portato
+il minore, ad esempio al centro sportivo, devono accertarsi che il bambino/a siano effettivamente entrati. Dovranno quindi comunicare tramite un messaggio ai genitori che tutto sia andato a buon fine.
+
+Recensire in app ma anche dal minore stesso che riceve in modo diretto il servizio come effettua il servizio il driver.
+
+Comprando un pacchetto extra il cliente può avere gratis una bottiglietta acqua.
+
+Alcuni autisti potrebbero garantire servizi di una lunga durata.
+
+Servizio Personalizzato;
+
+Login per l' account (google, apple apple)
+
+In base all' abbonamento puoi richiedere tipi di servizio :
+- base solo mattina e pomeriggio (7-12 / 14-17)
+- premium sono orari più flessibili
+- max e premium a qualsiasi ora
+
+Con l' abbonamento premium e max ci sarà una macchina riservata, mentre con il base la macchina potrebbe essere condivisa;
+
+Area garantita dell'intera provincia
+
+Abbonamento premium e max avranno l' accesso ad un' assistente virtuale
+
+Una volta iscritto all' app, la famiglia registrata può raccontare quelle che cerca e di conseguenza un' assistente troverà a lei il miglior servizio da poter scegliere
+
+
