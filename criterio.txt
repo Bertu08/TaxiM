@@ -35,7 +35,6 @@ Il sistema deve essere facile e intuitivo da utilizzare sia per i genitori sia p
 
 DI DOMINIO
 --Questi sono quelli legati alle regole specifiche del servizio di trasporto di minori.--
-
 L'autista deve essere in possesso di una licenza/patente valida e dei requisiti previsti dalla normativa per poter trasportare minori.
 Il trasporto di un minore deve avvenire con il consenso del genitore o del tutore.
 Il veicolo utilizzato per il servizio è personale dell'autista.
