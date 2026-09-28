@@ -4,41 +4,43 @@ Accessibile a chiunque;
 Mantenimento dell' app;
 
 Ecco funzionalità:
+--Questi sono quelli che descrivono cosa può fare l'app o cosa deve permettere di fare.--
+FUNZIONALITA'
+Login dell'account tramite Google, Apple o altri sistemi di autenticazione.
+Servizio personalizzato in base alle esigenze della famiglia.
+La famiglia può indicare nell'app le proprie necessità e l'assistente virtuale può proporre il servizio più adatto.
+L'utente può scegliere tra diversi piani di abbonamento:
+Base: servizio disponibile principalmente mattina e pomeriggio (7:00–12:00 / 14:00–17:00).
+Premium: orari più flessibili.
+Max: servizio disponibile a qualsiasi ora.
+Gli utenti con abbonamento Premium e Max possono usufruire di una macchina riservata, mentre con il piano Base la macchina potrebbe essere condivisa.
+Gli utenti Premium e Max possono utilizzare un assistente virtuale.
+Il cliente può richiedere un colloquio con l'autista prima dell'inizio del servizio, se lo desidera.
+Il cliente può recensire il servizio dell'autista tramite l'app.
+Anche il minore che usufruisce direttamente del servizio può lasciare una valutazione sull'autista.
+Il cliente può acquistare pacchetti extra, ad esempio un pacchetto che include gratuitamente una bottiglietta d'acqua.
+Il cliente può sottoscrivere un abbonamento che permette di ottenere un risparmio rispetto all'utilizzo del servizio singolo.
+L'app permette di offrire servizi di lunga durata, qualora alcuni autisti siano disponibili.
+Il sistema permette di effettuare il pagamento del servizio.
+Il sistema permette di comunicare ai genitori, tramite messaggio, che il bambino è arrivato a destinazione ed è entrato nella struttura prevista.
 
-Il pagamento verrà effettuato una volta che il bambino arriva a destinazione e potrebbe variare in base alla necessità del genitore e dalla durata del transporto (ovviamente il prezzo viene stabilito prima).
+NON FUNZIONALE
+--Qui parliamo soprattutto di sicurezza, affidabilità e qualità del servizio.--
+I driver devono essere verificati e certificati dalla piattaforma prima di poter offrire il servizio.
+La piattaforma deve verificare l'identità del driver attraverso un documento di identità.
+La piattaforma deve verificare la patente di guida italiana del driver.
+Il sistema deve garantire la sicurezza dei dati personali degli utenti e dei driver.
+Il sistema deve garantire che solamente i driver verificati possano effettuare il trasporto dei minori.
+Il sistema deve essere facile e intuitivo da utilizzare sia per i genitori sia per gli autisti.
 
-Se sarà fatto un abbonamento ci sarà un risparmio.
+DI DOMINIO
+--Questi sono quelli legati alle regole specifiche del servizio di trasporto di minori.--
 
-La macchina è personale dell' autista.
-
-E' importante che l' autista (che potrebbe essere una qualunque persona che offre un servizio) ha una licenza di guida in modo che posso portare in giro minori ovviamente con il consenso dei genitori.
-
-Si può fare un colloquio con l' autista se il genitore lo richiede (ovviamente dei giorni prima, e potrebbe essere a pagamento, ma l' accordo questo potrebbe essere tra autista e cliente) 
-
-I driver devono prima essere certificati dall' app con controllo della carta di identità, devono allegare la patente di guida italiana per verificare che effettivamente possono guidare e quest' ultimi una volta portato
-il minore, ad esempio al centro sportivo, devono accertarsi che il bambino/a siano effettivamente entrati. Dovranno quindi comunicare tramite un messaggio ai genitori che tutto sia andato a buon fine.
-
-Recensire in app ma anche dal minore stesso che riceve in modo diretto il servizio come effettua il servizio il driver.
-
-Comprando un pacchetto extra il cliente può avere gratis una bottiglietta acqua.
-
-Alcuni autisti potrebbero garantire servizi di una lunga durata.
-
-Servizio Personalizzato;
-
-Login per l' account (google, apple apple)
-
-In base all' abbonamento puoi richiedere tipi di servizio :
-- base solo mattina e pomeriggio (7-12 / 14-17)
-- premium sono orari più flessibili
-- max e premium a qualsiasi ora
-
-Con l' abbonamento premium e max ci sarà una macchina riservata, mentre con il base la macchina potrebbe essere condivisa;
-
-Area garantita dell'intera provincia
-
-Abbonamento premium e max avranno l' accesso ad un' assistente virtuale
-
-Una volta iscritto all' app, la famiglia registrata può raccontare quelle che cerca e di conseguenza un' assistente troverà a lei il miglior servizio da poter scegliere
-
-
+L'autista deve essere in possesso di una licenza/patente valida e dei requisiti previsti dalla normativa per poter trasportare minori.
+Il trasporto di un minore deve avvenire con il consenso del genitore o del tutore.
+Il veicolo utilizzato per il servizio è personale dell'autista.
+Il driver, una volta accompagnato il minore a destinazione, deve accertarsi che il bambino sia effettivamente entrato nella struttura.
+Il prezzo del trasporto deve essere concordato e comunicato al genitore prima dell'erogazione del servizio.
+Il prezzo del servizio può variare in base alla durata del trasporto e alle esigenze specifiche del genitore.
+Il pagamento del servizio viene effettuato dopo che il bambino è arrivato a destinazione, secondo le modalità previste dal servizio.
+Il servizio deve essere disponibile nell'intera provincia prevista dalla piattaforma.
