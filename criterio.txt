@@ -3,26 +3,50 @@ Guadagno alto;
 Accessibile a chiunque; 
 Mantenimento dell' app;
 
-Ecco funzionalità:
---Questi sono quelli che descrivono cosa può fare l'app o cosa deve permettere di fare.--
-FUNZIONALITA'
-Login dell'account tramite Google, Apple o altri sistemi di autenticazione.
-Servizio personalizzato in base alle esigenze della famiglia.
-La famiglia può indicare nell'app le proprie necessità e l'assistente virtuale può proporre il servizio più adatto.
-L'utente può scegliere tra diversi piani di abbonamento:
-Base: servizio disponibile principalmente mattina e pomeriggio (7:00–12:00 / 14:00–17:00).
-Premium: orari più flessibili.
-Max: servizio disponibile a qualsiasi ora.
-Gli utenti con abbonamento Premium e Max possono usufruire di una macchina riservata, mentre con il piano Base la macchina potrebbe essere condivisa.
-Gli utenti Premium e Max possono utilizzare un assistente virtuale.
-Il cliente può richiedere un colloquio con l'autista prima dell'inizio del servizio, se lo desidera.
-Il cliente può recensire il servizio dell'autista tramite l'app.
-Anche il minore che usufruisce direttamente del servizio può lasciare una valutazione sull'autista.
-Il cliente può acquistare pacchetti extra, ad esempio un pacchetto che include gratuitamente una bottiglietta d'acqua.
-Il cliente può sottoscrivere un abbonamento che permette di ottenere un risparmio rispetto all'utilizzo del servizio singolo.
-L'app permette di offrire servizi di lunga durata, qualora alcuni autisti siano disponibili.
-Il sistema permette di effettuare il pagamento del servizio.
-Il sistema permette di comunicare ai genitori, tramite messaggio, che il bambino è arrivato a destinazione ed è entrato nella struttura prevista.
+
+Funzionalità riscritte: As a [persona], I [want to], [so that].
+
+ACCOUNT E ACCESSO
+Come genitore, voglio accedere all'app con il mio account Google, Apple o altri sistemi di autenticazione, in modo da potermi registrare e accedere rapidamente senza creare nuove credenziali.
+
+PERSONALIZZAZIONE DEL SERVIZIO
+Come genitore, voglio indicare nell'app le esigenze della mia famiglia, in modo da ottenere un servizio personalizzato.
+Come genitore, voglio ricevere dall'assistente virtuale una proposta del servizio più adatto, in modo da scegliere senza dover confrontare da solo tutte le opzioni.
+Come genitore con piano Premium o Max, voglio usare un assistente virtuale, in modo da avere supporto immediato nella gestione del servizio.
+
+PIANI DI ABBONAMENTO
+Come genitore, voglio scegliere tra i piani Base, Premium e Max, in modo da selezionare quello più adatto alle mie esigenze e al mio budget.
+Come genitore con piano Base, voglio usufruire del servizio la mattina (7:00-12:00) e il pomeriggio (14:00-17:00), in modo da coprire le mie esigenze standard a un costo contenuto.
+Come genitore con piano Premium, voglio avere orari flessibili, in modo da adattare il servizio ai miei impegni.
+Come genitore con piano Max, voglio richiedere il servizio a qualsiasi ora, in modo da gestire anche esigenze urgenti o fuori orario.
+Come genitore con piano Premium o Max, voglio avere una macchina riservata, in modo che mio figlio viaggi sempre in un ambiente familiare e più sicuro.
+Come genitore con piano Base, voglio sapere che la macchina potrebbe essere condivisa, in modo da decidere in modo consapevole se il piano fa per me.
+
+AUTISTA, RECENSIONI E FIDUCIA
+Come genitore, voglio richiedere un colloquio con l'autista prima dell'inizio del servizio, in modo da conoscerlo e sentirmi tranquillo ad affidargli mio figlio.
+Come genitore, voglio recensire il servizio dell'autista tramite l'app, in modo da condividere la mia esperienza e aiutare gli altri genitori a scegliere.
+Come minore, voglio lasciare una valutazione sull'autista, in modo che la mia opinione sul viaggio venga ascoltata e considerata.
+Come autista, voglio consultare le recensioni ricevute dai clienti, in modo da migliorare il mio servizio.
+Come genitore, voglio sapere che gli autisti sono stati verificati, in modo da affidare mio figlio in sicurezza.
+
+PACCHETTI E RISPARMIO
+Come genitore, voglio acquistare pacchetti extra (ad esempio uno che include una bottiglietta d'acqua gratuita), in modo da arricchire il servizio in base alle esigenze di mio figlio.
+Come genitore, voglio sottoscrivere un abbonamento, in modo da risparmiare rispetto all'acquisto del singolo servizio.
+Come genitore, voglio accedere a servizi di lunga durata quando ci sono autisti disponibili, in modo da avere una soluzione continuativa per gli spostamenti di mio figlio.
+Come autista, voglio rendermi disponibile per servizi di lunga durata, in modo da avere un guadagno più stabile e continuativo.
+
+PAGAMENTO
+Come genitore, voglio pagare il servizio direttamente nell'app, in modo da non dover gestire contanti o pagamenti esterni.
+Come genitore, voglio conoscere il prezzo concordato prima dell'inizio del servizio, in modo da non avere sorprese sul costo.
+Come genitore, voglio effettuare il pagamento dopo che mio figlio è arrivato a destinazione, in modo da pagare solo quando il servizio è stato svolto correttamente.
+
+SICUREZZA E COMUNICAZIONE
+Come genitore, voglio ricevere un messaggio quando mio figlio è arrivato a destinazione ed è entrato nella struttura prevista, in modo da avere la certezza che sia arrivato al sicuro.
+Come genitore o tutore, voglio dare il mio consenso esplicito al trasporto del minore, in modo che il servizio venga svolto solo con la mia autorizzazione.
+
+DISPONIBILITÀ E VEICOLI
+Come genitore, voglio richiedere il servizio in tutta la provincia prevista, in modo da poter spostare mio figlio anche in zone diverse dalla mia.
+Come autista, voglio usare il mio veicolo personale per il servizio, in modo da lavorare con un mezzo che conosco e gestisco io.
 
 NON FUNZIONALE
 --Qui parliamo soprattutto di sicurezza, affidabilità e qualità del servizio.--
