@@ -6,64 +6,74 @@ Mantenimento dell' app;
 
 Funzionalità riscritte: As a [persona], I [want to], [so that].
 
-ACCOUNT E ACCESSO
-Come genitore, voglio accedere all'app con il mio account Google, Apple o altri sistemi di autenticazione, in modo da potermi registrare e accedere rapidamente senza creare nuove credenziali.
+1. ACCOUNT, PROFILAZIONE E CRESCITA
+Come genitore, voglio accedere all'app con il mio account Google, Apple o altri sistemi, in modo da potermi registrare rapidamente senza creare nuove credenziali.
 
-PERSONALIZZAZIONE DEL SERVIZIO
-Come genitore, voglio indicare nell'app le esigenze della mia famiglia, in modo da ottenere un servizio personalizzato.
-Come genitore, voglio ricevere dall'assistente virtuale una proposta del servizio più adatto, in modo da scegliere senza dover confrontare da solo tutte le opzioni.
-Come genitore con piano Premium o Max, voglio usare un assistente virtuale, in modo da avere supporto immediato nella gestione del servizio.
+Come genitore, voglio indicare nell'app le esigenze specifiche della mia famiglia, in modo da ottenere un servizio personalizzato e su misura.
 
-PIANI DI ABBONAMENTO
+Come genitore, voglio gestire i profili di più figli sotto un unico account, in modo da poter organizzare trasporti separati o congiunti in modo efficiente.
+
+Come genitore, voglio condividere un codice invito (Referral) con altre famiglie, in modo da ottenere sconti sui miei rinnovi e far conoscere l'app.
+
+Come autista, voglio avere una procedura guidata in app per caricare patente, documenti d'identità e casellario giudiziale, in modo da essere approvato velocemente dalla piattaforma.
+
+2. ABBONAMENTI, PIANI E PACCHETTI
 Come genitore, voglio scegliere tra i piani Base, Premium e Max, in modo da selezionare quello più adatto alle mie esigenze e al mio budget.
-Come genitore con piano Base, voglio usufruire del servizio la mattina (7:00-12:00) e il pomeriggio (14:00-17:00), in modo da coprire le mie esigenze standard a un costo contenuto.
-Come genitore con piano Premium, voglio avere orari flessibili, in modo da adattare il servizio ai miei impegni.
-Come genitore con piano Max, voglio richiedere il servizio a qualsiasi ora, in modo da gestire anche esigenze urgenti o fuori orario.
-Come genitore con piano Premium o Max, voglio avere una macchina riservata, in modo che mio figlio viaggi sempre in un ambiente familiare e più sicuro.
-Come genitore con piano Base, voglio sapere che la macchina potrebbe essere condivisa, in modo da decidere in modo consapevole se il piano fa per me.
 
-AUTISTA, RECENSIONI E FIDUCIA
-Come genitore, voglio richiedere un colloquio con l'autista prima dell'inizio del servizio, in modo da conoscerlo e sentirmi tranquillo ad affidargli mio figlio.
-Come genitore, voglio recensire il servizio dell'autista tramite l'app, in modo da condividere la mia esperienza e aiutare gli altri genitori a scegliere.
-Come minore, voglio lasciare una valutazione sull'autista, in modo che la mia opinione sul viaggio venga ascoltata e considerata.
-Come autista, voglio consultare le recensioni ricevute dai clienti, in modo da migliorare il mio servizio.
-Come genitore, voglio sapere che gli autisti sono stati verificati, in modo da affidare mio figlio in sicurezza.
+Come genitore con piano Base, voglio usufruire del servizio in fasce orarie prestabilite (7:00-12:00 e 14:00-17:00) sapendo che l'auto potrebbe essere condivisa, in modo da coprire le esigenze standard a un costo contenuto.
 
-PACCHETTI E RISPARMIO
-Come genitore, voglio acquistare pacchetti extra (ad esempio uno che include una bottiglietta d'acqua gratuita), in modo da arricchire il servizio in base alle esigenze di mio figlio.
-Come genitore, voglio sottoscrivere un abbonamento, in modo da risparmiare rispetto all'acquisto del singolo servizio.
-Come genitore, voglio accedere a servizi di lunga durata quando ci sono autisti disponibili, in modo da avere una soluzione continuativa per gli spostamenti di mio figlio.
-Come autista, voglio rendermi disponibile per servizi di lunga durata, in modo da avere un guadagno più stabile e continuativo.
+Come genitore con piano Premium, voglio avere orari flessibili e un'auto riservata, in modo da adattare il servizio ai miei impegni e far viaggiare mio figlio in un ambiente intimo.
 
-PAGAMENTO
-Come genitore, voglio pagare il servizio direttamente nell'app, in modo da non dover gestire contanti o pagamenti esterni.
-Come genitore, voglio conoscere il prezzo concordato prima dell'inizio del servizio, in modo da non avere sorprese sul costo.
-Come genitore, voglio effettuare il pagamento dopo che mio figlio è arrivato a destinazione, in modo da pagare solo quando il servizio è stato svolto correttamente.
+Come genitore con piano Max, voglio richiedere il servizio a qualsiasi ora con auto riservata, in modo da gestire anche le esigenze urgenti o fuori orario.
 
-SICUREZZA E COMUNICAZIONE
-Come genitore, voglio ricevere un messaggio quando mio figlio è arrivato a destinazione ed è entrato nella struttura prevista, in modo da avere la certezza che sia arrivato al sicuro.
-Come genitore o tutore, voglio dare il mio consenso esplicito al trasporto del minore, in modo che il servizio venga svolto solo con la mia autorizzazione.
+Come genitore, voglio acquistare pacchetti extra (es. bottiglietta d'acqua, snack), in modo da arricchire il servizio per mio figlio.
 
-DISPONIBILITÀ E VEICOLI
-Come genitore, voglio richiedere il servizio in tutta la provincia prevista, in modo da poter spostare mio figlio anche in zone diverse dalla mia.
-Come autista, voglio usare il mio veicolo personale per il servizio, in modo da lavorare con un mezzo che conosco e gestisco io.
+Come genitore (Piano Premium/Max), voglio poter interagire con un assistente virtuale, in modo da avere supporto immediato e farmi proporre le opzioni migliori senza dover cercare da solo.
 
-NON FUNZIONALE
---Qui parliamo soprattutto di sicurezza, affidabilità e qualità del servizio.--
-I driver devono essere verificati e certificati dalla piattaforma prima di poter offrire il servizio.
-La piattaforma deve verificare l'identità del driver attraverso un documento di identità.
-La piattaforma deve verificare la patente di guida italiana del driver.
-Il sistema deve garantire la sicurezza dei dati personali degli utenti e dei driver.
-Il sistema deve garantire che solamente i driver verificati possano effettuare il trasporto dei minori.
-Il sistema deve essere facile e intuitivo da utilizzare sia per i genitori sia per gli autisti.
+3. PRENOTAZIONE E GESTIONE DELLE CORSE
+Come genitore, voglio richiedere il servizio per qualsiasi destinazione all'interno della provincia coperta, in modo da poter gestire gli spostamenti ovunque serva.
 
-DI DOMINIO
---Questi sono quelli legati alle regole specifiche del servizio di trasporto di minori.--
-L'autista deve essere in possesso di una licenza/patente valida e dei requisiti previsti dalla normativa per poter trasportare minori.
-Il trasporto di un minore deve avvenire con il consenso del genitore o del tutore.
-Il veicolo utilizzato per il servizio è personale dell'autista.
-Il driver, una volta accompagnato il minore a destinazione, deve accertarsi che il bambino sia effettivamente entrato nella struttura.
-Il prezzo del trasporto deve essere concordato e comunicato al genitore prima dell'erogazione del servizio.
-Il prezzo del servizio può variare in base alla durata del trasporto e alle esigenze specifiche del genitore.
-Il pagamento del servizio viene effettuato dopo che il bambino è arrivato a destinazione, secondo le modalità previste dal servizio.
-Il servizio deve essere disponibile nell'intera provincia prevista dalla piattaforma.
+Come genitore o tutore, voglio dover dare il mio consenso esplicito e legalmente valido al trasporto del minore tramite l'app, in modo che il servizio avvenga nel pieno rispetto delle normative.
+
+Come genitore, voglio richiedere un colloquio conoscitivo (chat o video) con l'autista prima del servizio, in modo da sentirmi tranquillo ad affidargli mio figlio.
+
+Come genitore, voglio poter annullare una prenotazione accettando le condizioni di cancellazione, in modo da disdire se ho un imprevisto, sapendo in anticipo se verrà applicata una penale.
+
+Come genitore, voglio accedere a servizi di lunga durata (es. accompagnamento per tutto l'anno scolastico), in modo da avere una soluzione continuativa.
+
+Come autista, voglio rendermi disponibile per servizi di lunga durata, in modo da avere un guadagno più stabile e garantito nel tempo.
+
+Come autista, voglio usare il mio veicolo personale, in modo da lavorare comodamente con un mezzo che conosco.
+
+4. SICUREZZA, TRACCIAMENTO ED EMERGENZE
+Come genitore, voglio ricevere un codice univoco (PIN/OTP) da fornire a mio figlio, in modo che l'autista possa sbloccare la corsa solo dopo averlo inserito, garantendo che sia salito il bambino giusto.
+
+Come genitore, voglio visualizzare la posizione del veicolo su una mappa in tempo reale (GPS), in modo da monitorare l'intero tragitto e stare tranquillo.
+
+Come genitore, voglio ricevere una notifica automatica quando mio figlio è arrivato a destinazione ed è fisicamente entrato nella struttura, in modo da avere la certezza assoluta che sia al sicuro.
+
+Come utente (genitore, minore o autista), voglio avere un Tasto SOS sempre visibile durante la corsa, in modo da contattare istantaneamente l'assistenza clienti o le forze dell'ordine in caso di emergenza.
+
+Come autista, voglio avere l'obbligo di confermare sull'app che il bambino è effettivamente entrato nella struttura di destinazione, in modo da chiudere la corsa nel rispetto delle regole di tutela dei minori.
+
+5. PAGAMENTI E MODELLO DI BUSINESS
+Come genitore, voglio conoscere il prezzo concordato prima di confermare la corsa, in modo da non avere sorprese o costi nascosti.
+
+Come genitore, voglio che il pagamento avvenga in modo automatico nell'app solo dopo che mio figlio è arrivato a destinazione, in modo da non usare contanti e pagare solo a servizio compiuto.
+
+Come autista, voglio visualizzare il guadagno netto stimato prima di accettare una singola corsa, in modo da valutare se il tragitto è conveniente per me.
+
+Come amministratore (Sistema), voglio calcolare il percorso ottimizzato per i bambini che viaggiano in auto condivisa (Piano Base), in modo da far risparmiare carburante agli autisti e aumentare i margini di guadagno della piattaforma.
+
+Come amministratore (Sistema), voglio sospendere automaticamente l'erogazione del servizio in caso di mancato pagamento o carta scaduta, in modo da proteggere i profitti della piattaforma.
+
+6. RECENSIONI E CONTROLLO QUALITÀ
+Come genitore, voglio sapere in modo chiaro che tutti gli autisti sono stati verificati e certificati dal sistema, in modo da potermi fidare ciecamente della piattaforma.
+
+Come genitore, voglio recensire il servizio dell'autista, in modo da premiare chi lavora bene e aiutare le altre famiglie a scegliere.
+
+Come minore, voglio poter lasciare una valutazione sull'autista a fine viaggio, in modo che la mia opinione su come sono stato trattato venga ascoltata.
+
+Come autista, voglio consultare le mie recensioni, in modo da capire come migliorare il mio servizio e ottenere più clienti.
+
+Come amministratore (Sistema), voglio garantire i massimi standard di sicurezza informatica sui dati personali, in modo da rispettare la privacy (GDPR) di genitori, minori e autisti.
