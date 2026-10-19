@@ -9,9 +9,9 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex # Sostituisci con il nome del tuo file .tex principale se diverso
+          root_file: main.tex # Cambialo in un altro nome se il tuo file .tex principale non si chiama main.tex
       - name: Upload PDF artifact
-        uses: actions/actions-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-          name: PDF
-          path: main.pdf
+          name: PDF-Generato
+          path: main.pdf # Cambialo in [nomefile].pdf se sopra hai cambiato il nome del file principale
