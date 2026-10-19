@@ -1,0 +1,94 @@
+\documentclass[a2paper,landscape]{article} % Landscape aiuta con i diagrammi larghi
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage[margin=1cm]{geometry}
+\usepackage{tikz}
+\usepackage{tikz-uml}
+
+% Impostazioni stilistiche del diagramma
+\tikzumlset{actor below=0.5cm, fill usecase=white, text=black, draw=black}
+
+\begin{document}
+
+\begin{center}
+% Ridimensiona il diagramma per adattarlo alla pagina
+\resizebox{\textwidth}{!}{
+\begin{tikzpicture}
+
+    % ================== ATTORI ==================
+    % Attori a sinistra
+    \umlactor[x=-3, y=0]{Genitore}
+    \umlactor[x=-3, y=-11]{Minore}
+    
+    % Attori a destra
+    \umlactor[x=17, y=-2]{Autista}
+    \umlactor[x=17, y=-10]{Sistema}
+
+    % ================== SISTEMA ==================
+    \begin{umlsystem}[x=3, y=1]{Piattaforma Trasporto Minori}
+
+        % --- Colonna Sinistra (Funzionalità Genitore) ---
+        \umlusecase[x=0, y=0, width=2.5cm, name=login]{Accedere al sistema}
+        \umlusecase[x=0, y=-2, width=2.5cm, name=abb]{Gestire abbonamento}
+        \umlusecase[x=0, y=-4, width=2.5cm, name=prenot]{Prenotare trasporto}
+        \umlusecase[x=0, y=-6.5, width=2.5cm, name=gps]{Monitorare GPS}
+        \umlusecase[x=0, y=-8.5, width=2.5cm, name=paga]{Pagare servizio}
+        \umlusecase[x=0, y=-10.5, width=2.5cm, name=rec]{Rilasciare recensione}
+        
+        % --- Colonna Centrale (Estensioni e Inclusioni) ---
+        \umlusecase[x=4, y=-2, width=2cm, name=piano]{Scegliere piano}
+        \umlusecase[x=4, y=-3.5, width=2cm, name=cons]{Fornire consenso}
+        \umlusecase[x=4, y=-5, width=2cm, name=prezzo]{Concordare prezzo}
+        \umlusecase[x=4, y=-7.5, width=2cm, name=sos]{Attivare Tasto SOS}
+        
+        % --- Colonna Destra (Funzionalità Autista/Sistema) ---
+        \umlusecase[x=8, y=-1, width=2.5cm, name=disp]{Gestire disponibilità}
+        \umlusecase[x=8, y=-3, width=2.5cm, name=corsa]{Effettuare trasporto}
+        \umlusecase[x=8, y=-5, width=2.5cm, name=otp]{Scambiare codice OTP}
+        \umlusecase[x=8, y=-9, width=2.5cm, name=verifica]{Verificare autisti}
+        \umlusecase[x=8, y=-11, width=2.5cm, name=ottim]{Ottimizzare percorsi}
+
+    \end{umlsystem}
+
+    % ================== ASSOCIAZIONI (Linee continue) ==================
+    % Associazioni Genitore
+    \umlassoc{Genitore}{login}
+    \umlassoc{Genitore}{abb}
+    \umlassoc{Genitore}{prenot}
+    \umlassoc{Genitore}{gps}
+    \umlassoc{Genitore}{paga}
+    \umlassoc{Genitore}{rec}
+    \umlassoc{Genitore}{sos}
+
+    % Associazioni Minore
+    \umlassoc{Minore}{sos}
+    \umlassoc{Minore}{rec}
+
+    % Associazioni Autista
+    \umlassoc{Autista}{disp}
+    \umlassoc{Autista}{corsa}
+    \umlassoc{Autista}{sos}
+    \umlassoc{Autista}{rec}
+
+    % Associazioni Sistema
+    \umlassoc{Sistema}{verifica}
+    \umlassoc{Sistema}{ottim}
+    \umlassoc{Sistema}{gps} % Il sistema fornisce i dati GPS
+
+    % ================== RELAZIONI INCLUDE / EXTEND ==================
+    % Abbonamento
+    \umlextend{piano}{abb} % Scegliere il piano estende la gestione account
+
+    % Prenotazione
+    \umlinclude{prenot}{cons}   % Obbligatorio dare consenso
+    \umlinclude{prenot}{prezzo} % Obbligatorio concordare prezzo
+
+    % Corsa
+    \umlinclude{corsa}{otp}     % Obbligatorio l'OTP per iniziare
+    \umlinclude{corsa}{gps}     % Il trasporto include la condivisione GPS
+
+\end{tikzpicture}
+}
+\end{center}
+
+\end{document}
