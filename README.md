@@ -1,3 +1,14 @@
+CRITERI TAXIM
+
+1. Tracciamento immediato e senza ritardi (Real-Time)
+
+2. Sistema "Anti-Frode" sui pagamenti (Pre-autorizzazione)
+
+3. Massima protezione dei dati 
+
+
+
+
 1. ACCOUNT, PROFILAZIONE E CRESCITA
 
 Login SSO: Accesso rapido tramite credenziali di terze parti (Google, Apple, ecc.).
