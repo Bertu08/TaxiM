@@ -1,3 +1,82 @@
+1. ACCOUNT, PROFILAZIONE E CRESCITA
+
+Login SSO: Accesso rapido tramite credenziali di terze parti (Google, Apple, ecc.).
+
+Profilazione Familiare: Inserimento delle esigenze specifiche della famiglia per un servizio su misura.
+
+Gestione Multi-Profilo: Amministrazione di più figli sotto un unico account genitore per trasporti singoli o congiunti.
+
+Sistema Referral: Generazione e condivisione di codici invito per ottenere sconti e incentivare il passaparola.
+
+Onboarding Autisti: Procedura guidata in-app per l'upload e la verifica di patente, documenti d'identità e casellario giudiziale.
+
+2. ABBONAMENTI, PIANI E PACCHETTI
+
+Tier di Abbonamento: Scelta tra i piani Base, Premium e Max.
+
+Piano Base: Servizio in fasce orarie fisse (7:00-12:00 / 14:00-17:00) con logica di auto condivisa (carpooling).
+
+Piano Premium: Orari flessibili e auto privata ed esclusiva.
+
+Piano Max: Auto privata con disponibilità 24/7, incluse emergenze e fuori orario.
+
+Upselling (Pacchetti Extra): Acquisto di servizi aggiuntivi durante la corsa (es. acqua, snack, attesa prolungata).
+
+Assistente Virtuale: Supporto immediato e proposta di opzioni ottimizzate per gli utenti Premium e Max.
+
+3. PRENOTAZIONE E GESTIONE DELLE CORSE
+
+Copertura Geografica: Richiesta di corse verso qualsiasi destinazione all'interno della provincia servita.
+
+Consenso Digitale: Sistema per la raccolta del consenso esplicito e legalmente valido del genitore/tutore.
+
+Colloquio Preventivo: Funzionalità per richiedere una chat o videochiamata conoscitiva con l'autista prima della corsa.
+
+Gestione Cancellazioni: Sistema di annullamento della prenotazione con calcolo e applicazione automatica di eventuali penali.
+
+Contratti a Lungo Termine: Prenotazione di corse ricorrenti (es. intero anno scolastico o stagione sportiva).
+
+Gestione Flotta Personale: Registrazione e utilizzo del veicolo personale da parte degli autisti.
+
+4. SICUREZZA, TRACCIAMENTO ED EMERGENZE
+
+Verifica OTP/PIN: Sistema a doppio fattore in cui l'autista deve inserire un codice fornito dal minore per avviare la corsa.
+
+Live Tracking GPS: Visualizzazione in tempo reale della posizione del veicolo sulla mappa per il genitore.
+
+Notifiche Push Automatizzate: Avvisi di stato in tempo reale (es. "Minore prelevato", "Minore entrato nella struttura").
+
+Pulsante SOS Integrato: Tasto di emergenza visibile a genitore, minore e autista per contatto rapido con assistenza o forze dell'ordine.
+
+Proof of Delivery Fisico: Obbligo di conferma digitale da parte dell'autista dell'effettivo ingresso del minore nella struttura di destinazione.
+
+5. PAGAMENTI E MODELLO DI BUSINESS
+
+Pricing Trasparente: Visualizzazione del costo totale concordato prima della conferma della prenotazione.
+
+Addebito Post-Corsa: Elaborazione automatica del pagamento sulla carta del genitore solo a destinazione raggiunta.
+
+Preview Guadagni: Visualizzazione del compenso netto stimato per l'autista prima dell'accettazione della corsa.
+
+Algoritmo di Ottimizzazione: Calcolo intelligente dei percorsi per le auto condivise (Piano Base) per massimizzare margini e ridurre consumi.
+
+Blocco Amministrativo: Sospensione automatica dell'account genitore in caso di mancato pagamento o metodo di pagamento non valido.
+
+6. RECENSIONI E CONTROLLO QUALITÀ
+
+Badge di Verifica: Visualizzazione chiara dello stato "Certificato e Verificato" per gli autisti.
+
+Rating Genitori: Sistema di recensione a stelle e commenti lasciato dai genitori a fine servizio.
+
+Feedback Minori: Interfaccia semplificata per permettere al minore di valutare il trattamento ricevuto.
+
+Dashboard Autista: Sezione dedicata ai driver per monitorare il proprio punteggio e le recensioni ricevute.
+
+Infrastruttura Privacy-First: Architettura backend progettata per i massimi standard di sicurezza e conformità GDPR sui dati sensibili.
+
+
+
+
 UserStory
 1. ACCOUNT, PROFILAZIONE E CRESCITA
 Come genitore, voglio accedere all'app con il mio account Google, Apple o altri sistemi, in modo da potermi registrare rapidamente senza creare nuove credenziali.
